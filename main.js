@@ -18,6 +18,8 @@
 // }
 
 // function greeter(name){
+
+
 //   alert("welcome to" + name + "data visualization")
 
 // }
