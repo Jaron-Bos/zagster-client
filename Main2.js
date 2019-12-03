@@ -78,9 +78,9 @@ function updateChart() {
         data: {
             labels: ['January','Febuary','March','April','May','June','July','August','September', 'October','November','December'],
             datasets: [{
-                label: 'Zagster Number of Rides Per Month in 2017',
-                backgroundColor: 'rgb(255, 99, 132)',
-                borderColor: 'rgb(255, 99, 132)',
+                label: 'Rides Per Month in 2017',
+                backgroundColor: 'rgb(11, 91, 246)',
+                borderColor: 'rgb(254, 254, 254)',
                 fill:false,
                 //data: [0, 10, 5, 2, 20, 30, 45]
                 data: my_data  //make the chart use your my_data array
